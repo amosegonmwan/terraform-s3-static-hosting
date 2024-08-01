@@ -2,6 +2,8 @@
 
 This repository contains Terraform configurations for setting up an AWS S3 bucket for static website hosting. The configuration includes setting up the bucket, uploading `index.html` and `error.html` files, and configuring the bucket policy for public read access.
 
+![s3](https://github.com/user-attachments/assets/9a4084d6-13d4-48c3-8f8c-0f469f65e780)
+
 ## Files Overview
 
 ### `variables.tf`
